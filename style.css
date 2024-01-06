@@ -77,9 +77,7 @@ header a, a.link {
 
 div.wrap img {
     margin: 1rem;
-    margin-left: 0 auto;
-    margin-right: 0 auto;
-    max-width: 520px;
+    max-width: 95%;
 }
 
 p.link {
