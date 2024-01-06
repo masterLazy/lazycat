@@ -55,6 +55,10 @@ h2 {
     font-size: 30px;
 }
 
+a{
+    color: #000000;
+}
+
 header h1 {
     margin: 0;
     color: #ffffff;
@@ -69,6 +73,13 @@ footer p, footer a {
 
 header a, a.link {
     text-decoration: none;
+}
+
+div.wrap img {
+    margin: 1rem;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    max-width: 520px;
 }
 
 p.link {
